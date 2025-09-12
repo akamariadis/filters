@@ -1,5 +1,7 @@
 % Chebyshev Type II Low-Pass Filter Design
-clear; clc; close all;
+clear
+close all
+clc
 
 N  = 5;
 Rs = 40;
