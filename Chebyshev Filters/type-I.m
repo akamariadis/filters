@@ -1,7 +1,7 @@
 % Chebyshev Type I Low-Pass Filter Design
-clear;
-clc;
-close all;
+clear
+close all
+clc
 
 N  = 5;
 Rp = 0.5;
