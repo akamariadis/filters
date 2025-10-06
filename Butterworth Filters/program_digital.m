@@ -1,4 +1,4 @@
-% Digital Butterworth filter -> Magnitude, Phase, Group Delay, Pole-Zero Map
+% Digital Butterworth filter -> Magnitude, Phase, Group Delay, Pole - Zero Map
 
 clear;
 close all;
