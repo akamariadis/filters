@@ -1,4 +1,4 @@
-% Analof Butterworth filters -> Magnitude, Phase, Group Delay and Pole - Zero Map
+% Analog Butterworth filters -> Magnitude, Phase, Group Delay and Pole - Zero Map
 
 clear;
 close all;
